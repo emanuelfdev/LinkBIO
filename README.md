@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O LinkBIO é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://github.com/emanuelfdev/LinkBIO.git)
+- [Acesse o projeto finalizado, online](https://emanuelfdev.github.io/LinkBIO/)
 
 
 
